@@ -1,0 +1,15 @@
+{
+  "name": "security-design",
+  "owner": {
+    "name": "NaoyaNakamori"
+  },
+  "description": "何を守るかから始めてセキュリティを設計するskillを配布するmarketplace",
+  "plugins": [
+    {
+      "name": "security-design",
+      "source": "./plugins/security-design",
+      "description": "何を守るかを決め、ブラウザ、サーバーサイド、インフラの各層で脅威と対策を分析し、費用と残すリスクを利用者と決めて、公開前に入れる対策を組み立てる",
+      "version": "1.0.0"
+    }
+  ]
+}

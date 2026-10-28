@@ -1,0 +1,26 @@
+{
+  "name": "security-design",
+  "version": "1.0.0",
+  "description": "何を守るかを決め、ブラウザ、サーバーサイド、インフラの各層で脅威と対策を分析し、費用と残すリスクを利用者と決めて、公開前に入れる対策を組み立てる",
+  "author": {
+    "name": "NaoyaNakamori"
+  },
+  "skills": [
+    "./skills/design-security",
+    "./skills/decide-what-to-protect",
+    "./skills/analyze-browser-security",
+    "./skills/analyze-server-security",
+    "./skills/analyze-infrastructure-security"
+  ],
+  "interface": {
+    "displayName": "Security Design",
+    "capabilities": [
+      "Skills"
+    ]
+  },
+  "metadata": {
+    "harness": {
+      "marketplace": "security-design"
+    }
+  }
+}
